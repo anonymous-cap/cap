@@ -1,0 +1,8 @@
+Model,Consistency,Consistency,Drop_Train_Val
+FinMA-Full,0.1647,0.1677,-0.003
+FinMA-NLP,0.1588,0.152,0.0068
+Baichuan,0.4765,0.4674,0.0091
+GPT-4o-mini,0.7706,0.7489,0.0217
+Mistral,0.5294,0.4944,0.035
+Disc-Fin,0.4824,0.4083,0.0741
+LlaMA,0.6059,0.5308,0.0751

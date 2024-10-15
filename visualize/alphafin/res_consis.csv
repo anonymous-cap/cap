@@ -1,0 +1,10 @@
+Model,Drop
+
+Mistral-7B,-0.0062
+LLaMA-8B,-0.0013
+
+GPT-4o-mini,0.0022
+Disc-Fin-13B,0.0103
+Baichuan-13B,0.0213
+FinMA-NLP-7B,0.0706
+FinMA-Full-7B,0.1261

@@ -1,0 +1,8 @@
+Model,Drop_Train_Val,Drop_Train_Test
+Disc-Fin-13B,-0.0009,-0.0121
+Baichuan-13B,-0.0053,-0.0001
+GPT-4o-mini,-0.001,-0.0005
+LLaMA-8B,-0.0001,-0.0003
+Mistral-7B,-0.0023,0.0023
+FinMA-NLP-7B,0.0633,0.0377
+FinMA-Full-7B,0.136,0.1139
